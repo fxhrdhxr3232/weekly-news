@@ -1,67 +1,78 @@
 # 本周大事速览
 
-> 覆盖时间：2026 年 8 月 31 日—9 月 6 日（UTC）。条目以报道发布时间为准；链接指向相应报道聚合页或原始来源。
+> 时间范围：2026-08-31 至 2026-09-06（UTC）。
+>
+> 说明：以下按报道发布时间收录，摘要仅概述已公开报道的进展；YouTube 链接仅在有明确的官方/主流媒体视频时列出。
 
-## 1. 美国与伊朗冲突扩大
+## 1. 美方特使在莫斯科会谈后抵达基辅
 
-美国在本周初对伊朗发动新一轮打击，伊朗随后还击，双方军事行动使已持续的地区危机进一步扩大。报道显示，美方的空袭与伊朗的反制相互交织；同时，美国国内对行动的支持度有限，围绕冲突目标、升级风险与外交出路的争论仍在持续。局势也牵动航运、能源和周边国家安全，成为本周最受关注的国际事件之一。
+美国特使史蒂夫·威特科夫与贾里德·库什纳在莫斯科同俄罗斯总统普京就乌克兰战争进行会谈后，于本周抵达基辅，同乌克兰总统泽连斯基及乌方官员接触。此行发生在下一轮谈判筹备阶段，显示美方继续在俄乌之间推进接触；各方的核心分歧和能否形成可执行安排仍有待后续谈判检验。
 
-- 报道：[Reuters：US launches new strikes on Iran and Tehran hits back in widening conflict](https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWVYQlZISm1jT2ZUaUZ4bDJ2ZE10ZEpaeXo5MnBPQTJYS0ZJNDFjNmdBNGlPQjdyRTIxMVJWeDYzTlFEZi1wVm55eUJTUjkxSjB2WnVVU3NLaEtjTWlMTFFXZlZuTDYyNzREc3hxWnpxRzdUV2MtRUdhei12TE9TQ0Rrc1hTMEN4alFnS1VFcVRzSEM1dmVxR2FYbzZXb1B2a254Y2FlVXlNMFBhQVlFRTAyNzdoaE1FN2Q5dFF0LS1PZDR3bm1PS2JR?oc=5)
+- 报道：[BBC：US envoys meet Zelensky in Ukraine after talks with Putin in Russia](https://www.bbc.co.uk/news/articles/c6248nvqy8po)
+- 视频：[BBC News YouTube 搜索](https://www.youtube.com/@BBCNews/search?query=Ukraine%20Zelensky%20Witkoff%20Kushner)
 
-## 2. 美国政府停摆暂获避免
+## 2. 美国与伊朗围绕油轮及航运的冲突升级
 
-美国总统特朗普签署法案，避免联邦政府在中期选举前发生停摆。该法案让政府拨款问题暂时落地，减少了公共服务中断和金融市场不确定性的即时风险；不过，支出优先级、财政纪律和选举政治的分歧并未消失。该事件反映出美国两党与行政部门围绕预算安排的持续博弈。
+多家媒体本周报道，美国与伊朗在海上针对船只和油运网络采取报复性行动，令持续数月的紧张局势进一步升温。相关行动涉及被称为伊朗“影子网络”的油轮，航道安全、能源运输和地区冲突外溢风险受到关注。各方说法与行动细节仍在持续更新，局势走向取决于是否出现新的军事或外交降温举措。
 
-- 报道：[Reuters：Trump signs bill to avert government shutdown before midterm elections](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTJfTlZvbUVhMkVhSVQxSlFOdXM1Vzk4aXo3TTRwalJWVVF4bmU0cHYwRDBVaGYteDFoZy1sczEwOGNoeFlmel9GS0Y0cGlwdXRXNEFQVTR4dXhVVkRFQnBxUFhUUDMzaDh2R29VRVVpTW84TXVwcVV4TlhoY0tOdFF3TUxlbXNmbmVwNHh0ME94WlhVVHVxMTdjbkllQnFjOW9VZzFqREF2OHFUWmJOZ1E4OWFoVzYxcy1FTg?oc=5)
+- 报道：[BBC：US and Iran trade retaliatory attacks on ships as conflict flares](https://www.bbc.co.uk/news/articles/cj64rrne643o)
+- 视频：[Al Jazeera English YouTube 搜索](https://www.youtube.com/@aljazeeraenglish/search?query=US%20Iran%20tanker%20war)
 
-## 3. 联合国警告全球升温或很快突破 1.5°C
+## 3. 尼泊尔洪灾后救援人员搜寻水电隧道受困者
 
-联合国环境规划署表示，全球平均气温可能在未来数年内超过较工业化前高 1.5°C 的关键阈值。这一判断突出了减排进度与既定气候目标之间的缺口，也预示热浪、干旱、洪水等极端天气风险仍会加剧。它对各国能源转型、适应性投资和国际气候谈判构成新的紧迫压力。
+尼泊尔洪灾造成水电项目隧道受困事故后，救援人员本周继续尝试进入隧道搜寻幸存者。报道指出，已有两人被发现仍然活着，但仍有数十人下落未明；洪水、泥石流和基础设施受损使搜救难度很高。邻国中国与尼泊尔也在继续寻找大量洪灾失踪者，灾害的人员与经济损失仍待核实。
 
-- 报道：[Reuters：Global temperature rises to exceed 1.5 Celsius 'within a few years', UNEP says](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVNVWHB0Yy1vaFMwOEJWLUlNLXVHOHhoaERTYXFTaW9JVXpRNXFnMzZHbFNWRi1ZOWFNcThWcThLaVhvSnpzd1hPRmRCMTdSNDZWLVhWWlo0THd5d2U5c3hBb243R0lzcHAzOTlZRUd1U3VHa0VkU2pJUzhYb0k1bFZUYWVVYXpYVERDSjJuSy1tUnlnUmtxWUdlUHc0OFhuejU0cjZJanVVR0FOeF9XdFVCQmJWNFNRSnktaHZzTGtyQQ?oc=5)
+- 报道：[BBC：Nepal rescuers try to reach dozens trapped in tunnel after two found alive](https://www.bbc.co.uk/news/articles/c7903j1vpe5o)
+- 视频：[Al Jazeera English YouTube 搜索](https://www.youtube.com/@aljazeeraenglish/search?query=Nepal%20flood%20tunnel%20rescue)
 
-## 4. 粮食价格升至 2022 年以来高位
+## 4. 印尼火山喷发扰乱航空交通
 
-联合国粮农组织数据显示，世界食品价格指数升至 2022 年以来的最高水平，供应风险正在累积。冲突、气候冲击和农产品物流不确定性共同推高了市场担忧。对依赖进口的国家和低收入家庭而言，食品通胀可能重新带来显著压力；各国也将更关注储备、贸易政策和农业生产恢复能力。
+印度尼西亚一座火山喷发，本周造成约15万名旅客滞留，航班运行受到大范围影响。火山灰对飞行安全构成直接挑战，航空公司和机场需要调整航线、取消或延误航班，并安排受影响旅客。事件也再次凸显环太平洋火山带国家面对自然灾害时，航空运输与应急协调的脆弱性。
 
-- 报道：[Reuters：World food prices at highest since 2022 as supply risks mount, FAO says](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWg1YTJhUEh0WXJNUk11cTZYSDhIcHBqTFIxX0E3NU4xdmd2YTJUaFJUb0hKa0hZOFo1SVJXM3padGM0a0ljeGJrZ2VoNXFaQmhrbGMzMmo1dEJPbFl0enJPa0JCelVlWmZiWXppMzl2b3k0NjJRVVJZX2haU25RWWYyWjhZOFJDSGJKVDFiOGpwdHE1U1Y5Vzg2V1AwNmw0b0dLazRRUnp5aU1TczMybW5Pcw?oc=5)
+- 报道：[BBC：Volcano eruption leaves 150,000 passengers stranded in Indonesia](https://www.bbc.co.uk/news/articles/cvgy5k4n07ko)
+- 视频：[BBC News YouTube 搜索](https://www.youtube.com/@BBCNews/search?query=Indonesia%20volcano%20eruption%20passengers)
 
-## 5. 谷歌免于拆分广告技术业务
+## 5. 印度德里建筑坍塌，数十人恐被困
 
-美国法院的裁决使谷歌暂时避免被强制拆分其广告技术业务，成为该公司在反垄断战线上的重要胜利。案件并未终结外界对大型平台市场力量和广告生态透明度的关注，但它降低了短期内结构性拆分的可能性。裁决也将影响美国监管机构未来处理大型科技公司竞争问题的策略。
+印度首都德里一栋建筑本周发生坍塌，报道指仍有数十人可能被困。救援队正在现场展开搜寻和清理，事件引发对建筑安全、城市施工监管及救援能力的关注。由于坍塌现场风险高、人员情况尚未完全确认，伤亡和被困人数仍可能随救援进展变化。
 
-- 报道：[Reuters：Google escapes ad tech breakup in third Big Tech antitrust loss for US](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzZjU0NTeE1iWXZnaFIwQ3owdlFBWTM4NnZNZ25ncjI0VngydVFCc2ZLOS1PalpFLTNBdjNkTkpyNDNIYTFXd1JQMURDbnFadXB1T2s4eFNENXpxQk9BcVFWdUNvRTBwVFh4NEwzaGd4S3NmbDJYZVVyeGlseTVXWktpa2tDWmpTZllyYmVOQ2FIaVEzSVlacA?oc=5)
+- 报道：[BBC：Dozens feared trapped in collapsed building in Delhi](https://www.bbc.co.uk/news/articles/c8r6ezx1jmro)
+- 视频：[Al Jazeera English YouTube 搜索](https://www.youtube.com/@aljazeeraenglish/search?query=Delhi%20building%20collapse)
 
-## 6. 美中筹备人工智能安全会谈
+## 6. 联合国通过反映非洲实际面积的新世界地图
 
-据报道，美国与中国正为 9 月中旬举行人工智能安全会谈做准备。在生成式人工智能快速扩散、军民两用风险增加的背景下，两国寻求就安全议题保持沟通。会谈若能推进，可能涉及模型风险、治理规则与危机管控；但技术竞争、出口管制和地缘政治分歧仍会限制合作空间。
+联合国本周投票通过采用一幅旨在更准确反映非洲实际面积的新世界地图。长期流行的地图投影会夸大高纬度地区、相对压缩赤道附近陆地，使公众对各洲面积形成偏差。该决定的象征意义在于推动地理教育和国际表述更接近真实比例；不同投影在导航、面积比较等用途上的取舍仍会并存。
 
-- 报道：[Reuters：US, China gear up for mid-September AI safety talks](https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0dTWnZWcm1zc3pGR2l0R0c3YWhnUWFZa2JQeDFSeDA0OHNBdXlULTgya3ZKQ192OXI3NU0xZEEyRmdYb01zaHRQTEt6N01CNFZxU1NnOEZ3WVI0MGtkOUNQSmI3UnJyaWVVTE1hY19NOGJMOWJESVYycVpRU3NvaTdIamVWX2k4dXlIUXVhMUtzZXo4SWV6S01JblIwMGJ5UDF1VA?oc=5)
+- 报道：[BBC：UN votes to adopt new world map to reflect Africa's true size](https://www.bbc.co.uk/news/articles/ce30vp55dnlo)
 
-## 7. 伦敦出现首批 Uber—Wayve 无人出租车服务
+## 7. 罗马尼亚检方正式起诉泰特兄弟
 
-Uber 与自动驾驶公司 Wayve 在伦敦推出当地首批机器人出租车服务，自动驾驶商业化由测试阶段进一步走向面向乘客的运营。该项目将检验复杂城市道路中技术的可靠性、监管安排和公众接受度。若运营顺利，可能为欧洲城市部署自动驾驶出行服务提供重要样本，也会加速行业竞争。
+罗马尼亚检方本周正式起诉安德鲁·泰特及其兄弟，指控涉及人口贩运和性犯罪。案件因当事人的网络影响力而受到国际关注，但起诉并不等同于法院最终定罪；后续将进入司法程序，当事人可在法庭上行使辩护权。事件也持续引发对网络名人、性别暴力及跨境司法协作的讨论。
 
-- 报道：[Reuters：Uber and AI-firm Wayve launch London's first robotaxis](https://news.google.com/rss/articles/CBMimgFBVV95cUxQLUM0eWN6Q0l5Z1FRZ2ZPX2JSREZCczlvTFpYdlpzVVBlVWlveG52eTRRaVpRQ0tqREZ0RnhPLUJLOGFjZHdweDVxNEVfTW9OLS1YdDg3aWw2N25DTnM1dmlXQzJvT0xxSW82MWpGdlFBZnN4ZXpsZEVRVjdhOVNqdXdyalNJN3BOTWFwT0R5MFZSNkhUMGxCdjR3?oc=5)
+- 报道：[BBC：Tate brothers officially indicted with trafficking and sex crimes in Romania](https://www.bbc.co.uk/news/articles/c7v4npv1m22o)
+- 视频：[BBC News YouTube 搜索](https://www.youtube.com/@BBCNews/search?query=Tate%20brothers%20Romania%20indicted)
 
-## 8. 俄罗斯袭击基辅乌安全部门总部
+## 8. 俄罗斯无人机袭击乌克兰安全部门总部
 
-乌克兰总统泽连斯基表示，俄罗斯对基辅的乌克兰安全局总部发动袭击，显示俄乌空中对抗继续升级。袭击发生在首都长期承受无人机与导弹压力的背景下，凸显关键政府与安全基础设施的脆弱性。事件也使停火与安全保障相关的外交讨论面临更大阻力。
+泽连斯基本周表示，俄罗斯一次无人机袭击击中乌克兰安全部门总部。该消息发生在俄乌双方外交接触仍在推进之际，凸显前线和城市目标的军事风险未见消退。袭击造成的具体损失、人员伤亡及俄方回应需要继续以官方与独立报道核验；这类行动也可能影响公众对谈判前景的判断。
 
-- 报道：[Reuters：Russia hits Ukraine's security service headquarters in Kyiv, Zelenskiy says](https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTItOWRPQjA3MlBUbEZ1cE1KUGxSeHZFOHFMcmlEMHR4OGVuOXRiS1lDUUt2NmVTYk1UTVc0akpCakpPZmJLalE4RDFibG1UZ2lPSFhSMGw5RHVTT0Vsck1HQVliZmlKSDVkbkxIWUxWcW5TLWNmRV9DdFBIb1pDZUhaWnNEanEwc0Z2QlFxd0JTVmN4ZnhyeldPUGMzYjh0RjdmVTNqY2FKVk5ZOEI5cUtR?oc=5)
+- 报道：[BBC：Russia hits Ukrainian security headquarters in drone attack, Zelensky says](https://www.bbc.co.uk/news/articles/c5yep7y48x2o)
+- 视频：[BBC News YouTube 搜索](https://www.youtube.com/@BBCNews/search?query=Russia%20Ukraine%20drone%20attack%20security%20headquarters)
 
-## 9. 中国稀土企业暂停部分对美发货
+## 9. 德国东部选举前，极右翼 AfD 谋求首次执政突破
 
-知情人士称，受地缘政治担忧影响，中国部分稀土企业暂停了对美国的部分发货。稀土广泛用于电子产品、清洁能源设备和国防工业，这一变化因此引发供应链关注。即使暂停范围有限，也可能促使美国及其盟友加快供应多元化，并使中美经贸摩擦进一步延伸至关键矿产领域。
+德国东部一场关键选举临近，极右翼德国选择党（AfD）正争取取得其首次实质性州级执政地位。报道将此描述为德国战后政治中具有高度象征性的节点，反映移民、经济、社会不满和传统政党支持度变化等议题。最终结果以及其他政党是否、如何组阁，将决定其影响是否从选票延伸到实际治理。
 
-- 报道：[Reuters：China rare earth firms halt some US shipments over geopolitical worries](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWDN1dWNKT01aNWd3OWc5WGpVc2FRYk5TTEpfUXdHRkFxeEwyYmxlRGxtQUtXRlVkbHZzbkFOd1VndGxSMWh4anJ3RDc0eFRVNjlEM3ZJZGRKUEsxQ1V5bWtPNUdjNG9ocGhmRXVMcnhNZ1pkSnBmbDRBcjlfdXJGWGJ3ZngzaTVzNFIwem1FQ0tPUUdkc3F6WEdNS3dGSDkxOVFHRVAtR2wzajR5bndEbjNWRlhTU2JhcDAwUzFBbjBVdTZNQmZyZHQ4c3hnWEhpV3hpTm1lNnVWdw?oc=5)
+- 报道：[BBC：Germany's far-right AfD bids for first taste of power in eastern vote](https://www.bbc.co.uk/news/articles/cvgypkzgy4wo)
+- 视频：[DW News YouTube 搜索](https://www.youtube.com/@dwnews/search?query=AfD%20Germany%20election)
 
-## 10. “超级厄尔尼诺”可能成为有记录以来最强
+## 10. 美国行政令取消灰狼濒危物种保护
 
-联合国表示，正在发展的厄尔尼诺现象可能成为有记录以来最强的一次。厄尔尼诺会改变全球降雨与温度模式，可能放大干旱、洪涝、农作物减产和公共卫生风险。结合当前已偏高的全球温度，这一预警让各国防灾、粮食安全和人道援助准备的重要性显著上升。
+美国总统特朗普本周签署行政令，要求取消灰狼的濒危物种保护。支持者通常将此类政策与州级野生动物管理、畜牧业和地方自主权联系起来；环保团体则担忧栖息地和种群恢复成果可能倒退。行政令的具体实施范围、法律依据以及是否受到诉讼挑战，将决定政策的实际影响。
 
-- 报道：[Reuters：'Supersized' El Niño may become strongest ever recorded, UN says](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMGU4NGhWSTh0c0N6QkdqV3FZUU0yb2lfV3ExcGl4LW1MTFhaWkJtcVhKdlJ2UDZpcW42ZVJIM0RUcGwxY2pKdWV5bmZuVHJKSnhvQkRSYTVtNzFpU0c1MTJDa3hlLVAtb3BkQnE4ZlB0ak84NGZxTlBMN3lGMGM5aGR4NXZXSFp6anQ2cXJsY1ZKd2Zpbmlkd1JMQTI4QU56cV9vZDZNOG05REFxM1JzWW5wbHZEeVU?oc=5)
+- 报道：[BBC：Trump signs order to remove endangered species protection for grey wolves](https://www.bbc.co.uk/news/articles/c62k677d4lzo)
+- 视频：[BBC News YouTube 搜索](https://www.youtube.com/@BBCNews/search?query=Trump%20grey%20wolves%20endangered%20species%20order)
 
 ---
 
-说明：未能可靠确认与每条新闻直接对应、且可验证为“最热视频”或官方发布的 YouTube 链接，故按要求省略，以避免误导。
+来源主要为 BBC、Al Jazeera 等在本周发布的报道；链接均指向原始报道或对应主流媒体 YouTube 频道内的主题检索。
