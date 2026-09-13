@@ -1,69 +1,72 @@
 # 本周全球大事速览
 
-> **统计日期：2026-08-31 至 2026-09-06（Asia/Shanghai）**  
-> 本页按报道发布日收录。摘要仅概述下列原始报道已经披露的信息；司法指控、伤亡与战事进展均不等同于最终结论，可能随后续核验而更新。
+> **统计日期：2026-09-07 至 2026-09-13（Asia/Shanghai）**  
+> 本页根据统计期内公开报道整理。摘要只陈述所列来源已经披露的信息；战事、灾情、司法程序和伤亡数字都可能随后续核验而变化。
 
-## 1. 美方特使先后与普京、泽连斯基会面
+## 1. 沙特关键输油管道遭无人机袭击后关闭
 
-美国特使史蒂夫·威特科夫与贾里德·库什纳在莫斯科同俄罗斯总统普京讨论乌克兰战争后，于本周抵达基辅并与乌克兰总统泽连斯基会面。此行正值新一轮俄乌谈判筹备之际，反映华盛顿仍在与冲突双方分别接触；领土、安全安排等关键分歧及是否能形成可执行协议，尚未见公开结论。
+BBC 报道称，沙特阿拉伯在一次据称从伊拉克发起的无人机袭击后关闭了一条关键输油管道。此事把地区军事风险与能源基础设施、原油运输直接联系起来，市场也会关注由此带来的供应与航运压力。袭击责任、设施损坏程度及管道何时恢复运行，仍需以后续官方通报和独立报道核实。
 
-- 报道：[BBC：US envoys meet Zelensky in Ukraine after talks with Putin in Russia](https://www.bbc.co.uk/news/articles/c6248nvqy8po)
+- 报道：[BBC：Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq](https://www.bbc.co.uk/news/articles/c62m933465eo)
 
-## 2. 美伊围绕海上运输的报复性行动升级
+## 2. 沙特与胡塞武装在曼德海峡周边互相打击
 
-BBC 报道称，美国与伊朗本周针对船只进行了报复性行动，令已持续数月的紧张局势进一步加剧。此类行动直接牵动油运与航道安全，也提高地区冲突外溢的风险。相关军事行动的具体责任、损失和后续安排仍需以各方公开信息持续核验，外交降温能否出现亦未确定。
+半岛电视台在本周的直播报道中称，沙特阿拉伯与也门胡塞武装围绕曼德海峡地区发生互相打击；另有报道称，胡塞发射物在沙特吉赞地区造成两人受伤并损坏一座清真寺。曼德海峡是连接红海与亚丁湾的关键航道，局势升级可能影响地区安全和国际航运。各方军事说法仍应持续交叉核验。
 
-- 报道：[BBC：US and Iran trade retaliatory attacks on ships as conflict flares](https://www.bbc.co.uk/news/articles/cj64rrne643o)
+- 报道：[Al Jazeera：Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb](https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb)
+- 补充报道：[Al Jazeera：Houthi projectile wounds two, damages mosque in Jazan region](https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says)
 
-## 3. 尼泊尔洪灾后持续搜救水电隧道受困人员
+## 3. 伊朗与阿联酋在金砖峰会期间首次会谈
 
-尼泊尔救援人员本周继续尝试进入水电项目隧道，寻找在洪灾相关事故中受困的人。BBC 报道称已有两人被发现仍然存活，但数十人仍可能被困；洪水、淤泥与受损基础设施使搜救复杂。半岛电视台同时报道，中国和尼泊尔仍在寻找洪灾后大量失踪人员，整体灾情仍在发展。
+半岛电视台报道，伊朗与阿联酋官员在金砖峰会期间举行了本轮冲突开始以来的首次会谈。两国接触为地区沟通增加了一个外交渠道，但会谈的议题、成果和是否能缓解更广泛紧张局势尚未有足够公开细节。与此同时，巴林表示不会参加伊朗提出的霍尔木兹会谈，显示地区立场仍存在明显分歧。
 
-- 报道：[BBC：Nepal rescuers try to reach dozens trapped in tunnel after two found alive](https://www.bbc.co.uk/news/articles/c7903j1vpe5o)
-- 补充报道：[Al Jazeera：China, Nepal race to find thousands still missing 12 days after floods](https://www.aljazeera.com/news/2026/9/6/china-nepal-race-to-find-thousands-still-missing-12-days-after-floods)
+- 报道：[Al Jazeera：Iran, UAE hold first talks at BRICS summit since conflict began](https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4)
+- 补充报道：[Al Jazeera：Bahrain says it will not participate in Iran’s proposed Hormuz meeting](https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting)
 
-## 4. 印尼火山喷发导致约15万旅客滞留
+## 4. 乌克兰或面临全面入侵以来最严峻冬季
 
-印度尼西亚一座火山喷发后，航空交通受到显著扰乱，BBC 报道称约15万名旅客滞留。火山灰会对飞行安全造成直接影响，机场与航空公司需要取消、延误或调整航班。事件凸显火山活动频繁地区的航空系统对自然灾害的敏感性；受影响航线和旅客安置情况仍会随火山活动变化。
+一名联合国官员对 BBC 表示，乌克兰可能迎来俄罗斯全面入侵以来“最艰难的冬天”。该判断指向战争长期化下的能源、供暖、基础设施和民生压力。报道并未意味着冬季结果已经确定，但提示国际人道援助、能源修复以及对平民保护仍是即将到来的重点议题。
 
-- 报道：[BBC：Volcano eruption leaves 150,000 passengers stranded in Indonesia](https://www.bbc.co.uk/news/articles/cvgy5k4n07ko)
+- 报道：[BBC：Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC](https://www.bbc.co.uk/news/articles/cwyz59yyqk4o)
 
-## 5. 德里建筑坍塌，救援人员搜寻可能受困者
+## 5. 菲律宾渡轮火灾死亡人数升至76人
 
-印度首都德里一栋建筑本周坍塌，BBC 报道称数十人恐被困。救援人员在现场开展搜救和清理，伤亡人数与实际被困人数在救援完成前仍可能变化。该事故也再次引起公众对高密度城市的建筑安全、施工监管和应急救援能力的关注。
+BBC 与半岛电视台本周报道，菲律宾一艘渡轮发生火灾后，死亡人数升至76人，仍有人失踪。海上事故的搜救、遇难者身份确认和事故原因调查仍在进行。事件再次突显客运渡轮安全、应急疏散和海上搜救能力的重要性，最终伤亡数字和责任认定应等待主管部门调查结论。
 
-- 报道：[BBC：Dozens feared trapped in collapsed building in Delhi](https://www.bbc.co.uk/news/articles/c8r6ezx1jmro)
+- 报道：[BBC：Death toll from Philippines ferry fire rises to 76, with more still missing](https://www.bbc.co.uk/news/articles/cwyz755yeg9o)
+- 补充报道：[Al Jazeera：Death toll from Philippine ferry fire rises to 76](https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76)
 
-## 6. 联合国投票采用更能反映非洲实际面积的世界地图
+## 6. 智利养老院火灾造成16名住户死亡
 
-BBC 报道称，联合国本周投票通过采用一幅旨在更准确反映非洲实际面积的新世界地图。传统常用地图投影会让高纬度地区显得更大、赤道附近的大陆相对缩小，影响公众的空间认知。此项决定主要具有教育与表述意义；不同地图投影仍会因导航、面积比较等不同用途而继续并存。
+智利一家养老院本周发生火灾，BBC 和半岛电视台报道均称有16名老年住户死亡。当地有关方面需要进一步调查火灾起因、建筑防火条件和疏散过程。由于受害者多为行动能力可能受限的老年人，事故也引发对长期照护设施安全标准、监管和紧急响应机制的关注。
 
-- 报道：[BBC：UN votes to adopt new world map to reflect Africa's true size](https://www.bbc.co.uk/news/articles/ce30vp55dnlo)
+- 报道：[BBC：Fire at nursing home in Chile kills 16 residents](https://www.bbc.co.uk/news/articles/cy4zpp20w77o)
+- 补充报道：[Al Jazeera：Fire at nursing home in Chile kills 16 elderly residents](https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents)
 
-## 7. 罗马尼亚检方正式起诉泰特兄弟
+## 7. 法国调查列车脱轨是否存在蓄意破坏
 
-BBC 报道称，罗马尼亚检方本周正式起诉安德鲁·泰特及其兄弟，指控涉及人口贩运和性犯罪。由于涉案者拥有很高的网络知名度，此案受到国际舆论关注。起诉是司法程序中的一步，并不等同于法院最终定罪；案件将继续依照当地法律程序审理，当事人享有辩护权。
+BBC 报道称，法国官员正调查一起列车脱轨事故是否由蓄意行为造成。调查尚在早期，任何关于动机、责任人或事件性质的结论均应以执法和铁路主管机构的正式结果为准。铁路网络是关键公共基础设施，若确认存在人为破坏，相关事件可能进一步提升欧洲对交通安全与基础设施防护的警戒。
 
-- 报道：[BBC：Tate brothers officially indicted with trafficking and sex crimes in Romania](https://www.bbc.co.uk/news/articles/c7v4npv1m22o)
+- 报道：[BBC：French officials investigate if malicious act caused train derailment](https://www.bbc.co.uk/news/articles/c33kp533nn6o)
 
-## 8. 泽连斯基称乌克兰安全部门总部遭俄军无人机袭击
+## 8. 刚果（金）埃博拉疫情扩散至第七个省份
 
-乌克兰总统泽连斯基本周表示，俄罗斯一次无人机袭击击中乌克兰安全部门总部。该事件发生在美方仍在推动与俄乌双方接触之时，显示军事对抗并未因谈判筹备而停止。关于设施损毁、人员伤亡及俄方具体回应，仍应以双方官方发布和独立报道后续核验。
+半岛电视台报道，埃博拉病毒已扩散至刚果民主共和国第七个省份，政府则表示病例数量正在下降。地理扩散与病例趋势并不必然矛盾：卫生部门仍需通过检测、接触者追踪、疫苗接种和社区沟通来控制传播。疫情规模、致死率及跨区域风险应以世卫组织和当地卫生部门的持续数据为准。
 
-- 报道：[BBC：Russia hits Ukrainian security headquarters in drone attack, Zelensky says](https://www.bbc.co.uk/news/articles/c5yep7y48x2o)
+- 报道：[Al Jazeera：Ebola spreads to seventh DRC province as gov’t insists cases are declining](https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4)
 
-## 9. 德国东部选举临近，AfD 寻求首次实质执政突破
+## 9. 德国多地出现反对极右翼 AfD 的大规模游行
 
-德国东部一场关键选举临近，极右翼德国选择党（AfD）正争取取得其首次实质性的州级执政地位。BBC 将其描述为德国政治的重要节点，选情也折射出移民、经济、社会不满和传统政党支持变化等议题。最终影响不仅取决于得票，也取决于其他政党的组阁选择与地方议会格局。
+半岛电视台报道，德国多地本周有数万人上街游行，抗议极右翼德国选择党（AfD）。示威反映德国社会对极右翼政治力量上升的担忧，也显示移民、经济、身份认同与民主制度等议题继续塑造公共讨论。游行本身并不决定选举结果，但可能影响政党动员、舆论氛围及后续政治联盟选择。
 
-- 报道：[BBC：Germany's far-right AfD bids for first taste of power in eastern vote](https://www.bbc.co.uk/news/articles/cvgypkzgy4wo)
+- 报道：[Al Jazeera：Tens of thousands march across Germany to protest far-right party AfD](https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd)
 
-## 10. 美国签令取消灰狼濒危物种保护
+## 10. 美国法院阻止削减灾害机构人员的计划
 
-BBC 报道称，美国总统特朗普本周签署行政令，要求取消灰狼的濒危物种保护。支持者往往将相关政策与州级野生动物管理及畜牧业利益联系起来，环保团体则担忧灰狼种群和栖息地恢复成果可能受损。行政令的具体执行范围、法律依据及可能面临的诉讼，将决定其实际影响。
+半岛电视台报道，美国一家法院阻止了特朗普政府削减灾害管理机构工作人员的计划。法院裁决的法律依据、适用范围和政府是否提出进一步上诉，将决定该政策能否执行。争议发生在极端天气和灾害应对能力广受关注之际，也凸显联邦紧急管理体系的人力配置和行政权限问题。
 
-- 报道：[BBC：Trump signs order to remove endangered species protection for grey wolves](https://www.bbc.co.uk/news/articles/c62k677d4lzo)
+- 报道：[Al Jazeera：US court blocks Trump administration plan to cut disaster agency workforce](https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce)
 
 ---
 
-**来源说明：** 本期主要依据 BBC News World RSS 和 Al Jazeera 在统计期内的公开报道整理。仅在能直接核验到与条目对应的官方或主流媒体视频时才会附 YouTube 链接；本期未列出未经核验的视频链接。
+**来源说明：** 本期以 BBC News World RSS、Al Jazeera 在统计期内公开发布的原始报道为主。未列出未能直接核验的 YouTube 视频链接。
